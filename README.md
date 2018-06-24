@@ -33,7 +33,7 @@ Please note that you must have a working C compiler and Python in your path for
 * [Visual Studio Community 2015](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
 * [Python 2.7](https://www.python.org/downloads/)
 
-[Tuck 64 was kind enough to make a video walkthrough of the setup process](https://www.youtube.com/watch?v=H-82S2jFOII)
+)
 
 ## RSS
 You can create an rss.json file adding rss feeds as commands. See rss.json.example for details.
@@ -75,4 +75,4 @@ All the things!
 # Help
 Please check github issues page on this project. We get a lot of the same questions, its very likely yours has already been answered. And yes we need to roll those into an official FAQ.
 
-If you still need help join us on [discord.](https://discord.gg/m29GJBN)
+If you still need help join us on [discord.](https://discord.gg/m29GJBN)n
